@@ -1,0 +1,28 @@
+{
+  "name": "express-warrant",
+  "version": "0.0.1",
+  "description": "Express middleware to validate resource permissions.",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "1.15.x",
+    "should": "~1.2.2",
+    "express": "3.4.x",
+    "supertest": "0.5.x"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bigmountainideas/express-warrant.git"
+  },
+  "keywords": [
+    "express",
+    "permissions"
+  ],
+  "author": "Jovan Alleyne <jovan@bigmountainideas.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bigmountainideas/express-warrant/issues"
+  }
+}
