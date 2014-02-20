@@ -5,7 +5,7 @@
   "main": "index.js",
   "devDependencies": {
     "mocha": "1.15.x",
-    "should": "~1.2.2",
+    "should": "3.1.x",
     "express": "3.4.x",
     "supertest": "0.5.x"
   },
